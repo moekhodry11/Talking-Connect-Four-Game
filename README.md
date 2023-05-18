@@ -1,0 +1,2 @@
+# Talking-Connect-Four-Game
+ Description: This repository contains the code, design files, and documentation for a smart Connect Four game developed as a graduation project in collaboration with the College of Disability Sciences. The project involved adding technology to the traditional Connect Four game using Arduino. The game board and pieces were designed using Fusion 360, and the wooden components were fabricated using a laser cutting machine.
